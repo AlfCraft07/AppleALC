@@ -1,6 +1,6 @@
 <dict>
 	<key>LayoutID</key>
-	<integer>13</integer>
+	<integer>7</integer>
 	<key>PathMapRef</key>
 	<array>
 		<dict>
@@ -98,7 +98,7 @@
 				<string>IntSpeaker</string>
 			</array>
 			<key>PathMapID</key>
-			<integer>13</integer>
+			<integer>7</integer>
 		</dict>
 	</array>
 </dict>
